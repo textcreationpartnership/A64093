@@ -1,0 +1,162 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Something written to the magistrates of London and Middlesex who sit on the seat of justice, who are examples to the rest of the nation, or to whomsoever this may come, that they may see the fruits of their doings, and repent thereof : with a sound of God's judgements against Babylon and her merchants : also a manifestation of God's love to his people, and an invitation to all people to turn unto the Lord who waits to be gracious, yea, whose loving kindness is strecht out to the ends of the earth / by ... John Tyso.</title>
+            <author>Tyso, John, d. 1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64093</idno>
+            <idno type="STC">Wing T3594</idno>
+            <idno type="STC">ESTC R22374</idno>
+            <idno type="EEBO-CITATION">12264555</idno>
+            <idno type="OCLC">ocm 12264555</idno>
+            <idno type="VID">57959</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64093)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57959)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 901:56)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Something written to the magistrates of London and Middlesex who sit on the seat of justice, who are examples to the rest of the nation, or to whomsoever this may come, that they may see the fruits of their doings, and repent thereof : with a sound of God's judgements against Babylon and her merchants : also a manifestation of God's love to his people, and an invitation to all people to turn unto the Lord who waits to be gracious, yea, whose loving kindness is strecht out to the ends of the earth / by ... John Tyso.</title>
+                  <author>Tyso, John, d. 1700.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57959:1"/>
+            <pb facs="tcp:57959:1"/>
+            <p>Something written to the MAGISTRATES OF LONDON AND MIDDLESEX, Who ſit on the Seat of Juſtice, who are as examples to the reſt of the Nation; or to whomſoever this may come, that they may ſee the fruits of their doings, and repent thereof.</p>
+            <p>Wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h a ſound of God's Judgements againſt <hi>Babylon</hi> and her Merchants.</p>
+            <p>Alſo, A manifeſtation of God's Love to his People, and an invitation to all people to turn unto the Lord who waits to be gracious; yea, whoſe loving-kindneſs is ſtretcht out to the ends of the Earth.</p>
+            <p>By one who hath been a ſufferer for the Truth's ſake, <hi>JOHN TYSO.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1663.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:57959:2"/>
+            <pb n="1" facs="tcp:57959:2"/>
+            <head>
+               <hi>Something written to the Magiſtrates of</hi> London <hi>and</hi> Middleſex, <hi>&amp;c.</hi>
+            </head>
+            <p>O Ye men of <hi>London,</hi> who fit as Heads, and are as Lead<g ref="char:EOLhyphen"/>ers to the reſt of the Nation in your proceedings; and to ye the inhabitants of the Subburbs thereof, do I ſpeak; yea, to you chief men in <hi>Middleſex,</hi> who ſit in the ſeat of Juſtice: What, think ye the Lord hath forſaken the earth? Or is it in your hearts the Holy One of <hi>Iſrael</hi> ſees you not?</p>
+            <p>Conſider and lay it to heart, ſlight it not; for God wil plead with you for theſe things: What, is Truth wholly become a prey amongſt you, and Juſtice and true Judgement turned backward, that Equity cannot enter? And have you not on<g ref="char:EOLhyphen"/>ly the Names of Juſtice, and the words thereof painted upon the Walls in your Courts, and your hearts hardened againſt God and his Truth where it is made manifeſt? And is not this Scripture fulfilled in your generation, That he that departs from iniquity becomes a prey? And are not the proud count<g ref="char:EOLhyphen"/>ed happy? And are not them that work wickedneſs ſet up.</p>
+            <p>O ye men in Authority, conſider theſe things, and lay it to heart; for do not our eyes behold theſe things in your Courts of Judicatory? And, are not theſe things brought forth a<g ref="char:EOLhyphen"/>mongſt you, the prophane, licentious perſons, drunkards and ſwearers, whores and whoremongers are ſet at liberty, and the poor deſpiſed Members of Truth kept in bonds for the exer<g ref="char:EOLhyphen"/>ciſe of a pure Conſcience towards God and Man; for know this, it is for this very thing we ſuffer outward bonds and im<g ref="char:EOLhyphen"/>priſonments, with the ſpoiling of our goods, becauſe we fear the Lord, and cannot run into the ſame exceſs with others, but keep our Conſciences void of offence towards God and man.</p>
+            <p>So conſider how cruel and hard-hearted you have been to<g ref="char:EOLhyphen"/>wards
+<pb n="2" facs="tcp:57959:3"/>us; yea, like <hi>Pharoah</hi>'s Task-Maſters have you oppreſſed the Seed of <hi>Jacob;</hi> but know this, the mighty God of <hi>Jacob</hi> in whom we truſt; wil as ſure plead our Cauſe, as ever he did <hi>Iſ<g ref="char:EOLhyphen"/>rael</hi>'s of old; who hath, and wil give us ſtrength and patience to wait upon him for deliverance in his own time. So think not that pride, cruelty and oppreſſion and them that delight therein, ſhall for ever reign, and Truth be for ever ſlain in the ſtreets of ſpiritual <hi>Sodom</hi> and <hi>Egypt,</hi> where Chriſt was, and is crucified by the generation of <hi>Cain, Iſmael</hi> and <hi>Eſau,</hi> who were murderers, ſcoffers and perſecutors of all the righteous Seed of God, from <hi>Abel</hi> to this very day; but know this, yes aſſuredly, Plagues, Plagues is prepared, Vials, Vials of the Wrath of Almighty God is to be poured forth without mix<g ref="char:EOLhyphen"/>ture upon the ſeat of the Beaſt, and upon the inhabitants of the Earth, whereby they ſhall gnaſh their teeth for very pain, and blaſpheme the God of Heaven (who hath power over theſe plagues) that repeat not of their evil deeds, but curſe their God and their King, which is <hi>Abaddon</hi> the Angel of the bot<g ref="char:EOLhyphen"/>tomleſs pit.</p>
+            <p>And ſo let none glory in their acts of cruelty, nor boaſt in their own ſtrength, nor ſay as it was ſaid in the <hi>Revelations, Who is able to make war with the Beaſt?</hi> For the little ſtone is cut out of the Mountain, which hath and wil ſmite the great Image; yea, and God's Plough is entered into the fallow ground, yea and all the bryars and brambles, call Cedars and ſturdy Oaks ſhall not hinder its paſſage through the Earth, but in the fulneſs of time they ſhall be as ſtubble fully dryed, fit for the fire, and the wrath of the Lord God Almighty ſhall kindle upon them, and burn, and not be quenched til Judgment be brought forth in<g ref="char:EOLhyphen"/>to victory, and Truth and Equity come to reign, and Righte<g ref="char:EOLhyphen"/>ouſneſs run down our ſtreets; for this is what the Lord requires of every man, To do juſtly, love mercy, and walk humbly with his God, and to love his Neighbor as himſelf, as the Scri<g ref="char:EOLhyphen"/>pture faith; and until then not a bleſſing, but a curſe is to be expected.</p>
+            <p>And this is to all you in Authority, in whom the gift of God is not wholly ſlain, but ſome tenderneſs is left in you, &amp; your Conſciences are ſo far enlightened, that you cannot join in your hearts with the unjuſt proceeding of others, take heed
+<pb n="3" facs="tcp:57959:3"/>how you join hand in hand with the wicked, neither be ſilent for fear of man when unjuſt Judgment is given againſt any; for if you do, God wil not hold you guiltleſs at his Judgement-ſeat; but as you are faithful to God, ſo ſhal you have your re<g ref="char:EOLhyphen"/>ward; but if you are ſilent, and wink at the unjuſt proceedings of others, whereby Truth and good men come to ſuffer, God wil require it at your hands, and that which he hath given, ſhall be taken from you, and ye bound hand and foot, and caſt into utter darkneſs as wel as others, where ſhall be weeping and gnaſhing of teeth for ever.</p>
+            <p>For know this, God did not ſet you in places of truſt to ſeek your ſelves, but to act for him, and to be an encouragement to good men, and a terror to the wicked; and as you are faith<g ref="char:EOLhyphen"/>ful thereunto, you wil come over all the ſlaviſh fear of man, al<g ref="char:EOLhyphen"/>though they be higher in power then yourſelves; and ſo you wil anſwer the end for which God hath ſet you, which is not to pleaſe men, but to do the wil of God, which cannot be done by you if you ſeek to ſave ſelf; but God wil deliver the oppreſſed by another hand, and ye ſhall be caſt out as dung upon the face of the Earth.</p>
+            <p>And what think you, ye Merchants of <hi>Babylon,</hi> who reign as Kings, and put the day of the Lord afar off, and puſh with your horns, and cry, <hi>Tuſh, away, where is the promiſe of his coming? doth not all things continue as they were ſince the Fathers fell aſleep? and is not our Kingdom reſtored again into its ſtrength and vigor as before? And are net the Towers of</hi> Babel <hi>rebuilt? And doth not the Whore our Mother ſit as a Queen, with her Golden Cup in her hand? And have not we made Laws and Decrees that all both ſmall and great, ſhall drink thereof? And how ſhould ſhe ſee ſorrow, or we have cauſe to lament her downfall, which you ſay is ſo near?</hi>
+            </p>
+            <p>Why hear this ye Merchants of <hi>Babylon</hi> who are crept out of your holes and dens, and are ſpread like Locuſts upon the face of the Earth, and at your return is the Dragons Chain looſen<g ref="char:EOLhyphen"/>ed, and the ſmoak of the bottomleſs pit aſcended, whereby the air is darkned, and what are you ſeeking long life here in thick darkneſs? (yea, as in <hi>Egypts</hi> Land, which may be felt) and are not your ſpirits as black as Hell, and as bloody as your Scarlet Robes? And do they not thirſt after the blood of the Saints, to drink thereof, who cannot drink the Cup of your Fornica<g ref="char:EOLhyphen"/>tion?
+<pb n="4" facs="tcp:57959:4"/>Nay, your day which is in darkneſs, is ſhort, &amp; the time is at hand wherein you ſhall be taken with the Beaſt and the Dragon, and caſt alive into the Lake which burns with fire and brimſtone for ever; for by your Sorceries is the Earth corrupt<g ref="char:EOLhyphen"/>ed? And ſhall not a devouring fire cleanſe and purifie it again? yea, the ſmoak of your burning ſhall aſcend up for ever, and for evermore; yea, dry trees twice dead, and pluckt up by the roots; yea, bundles, bundles for the fire are ye prepared both high and low, noble and ignoble, great and ſmall, even as you would have devoured, ſo ſhall you be overcome; for God Almighty in whoſe hand ye are, wil plead with you, who are poſting on greedily after your prey; but a hook ſhall you have in your noſtrils, and the prey taken from between your teeth, and ye bound in chains, and caſt into utter darkneſs, where ſhall be weeping, wailing, and gnaſhing of teeth for ever and for evermore, except ye repent; but if the Lord open the eyes of any of you, ſo that you come to ſee where you are, and be as fire-brands pluckt out of the burning, ſhould we not rejoice, yea and ſing for joy together to the Lord God &amp; the Lamb for ever, who hath redeemed us out of Kindreds, Tongues and Na<g ref="char:EOLhyphen"/>tions, and put a new ſong into our mouths; and how can we but praiſe and magnifie his Name over all for ever, who hath done great things for his people, whoſe Name is worthy to be bleſſed, exalted and magnified over all for ever.</p>
+            <p>So let not the Merchants of <hi>Babylon</hi> think it a ſmall thing; for us to return back again from New-<hi>Jeruſalem</hi> the City of the great King, to their City <hi>Babylon,</hi> to ſit under their Willows by the Rivers of <hi>Babylon;</hi> for there we cannot ſing an <hi>Hebrew</hi> ſong, but muſt feed of the broth of their abominable things, which our ſouls hate, and hath no pleaſure therein, but as living wit<g ref="char:EOLhyphen"/>neſſes bear our Teſtimony for the Lord our God againſt their abominations as he calls us thereunto.</p>
+            <p>And ſo let none worſhip the Beaſt, nor bow to his image, for the everlaſting Goſpel is preached again, and the Angel doth flye through the midſt of Heaven, and the cry is gone forth, <hi>Fear God, and give glory to him; for the hour of his judgements is come; &amp; worſhip him that made Heaven &amp; Earth, &amp; the Sea, and the fountains of living waters; for</hi> Babylon <hi>the great is come up in remembrance, and the Judgment ſeat is ſet, &amp; her plagues are begun, which ſhal never have
+<pb n="5" facs="tcp:57959:4"/>end; the mouth of the Lord God Almighty hath ſpoken it. So be ſtill ye Nati<g ref="char:EOLhyphen"/>ons, and keep ſilent ye Iſles afar off; yea, tremble ye Mountains, melt away ye lit<g ref="char:EOLhyphen"/>tle Hills, for the Lord our God is riſen in power and great glory, and is come to reign, and the Nations are angry at his appearance, who is come and coming in ten thouſands of his Saints, to judge the world in righteouſneſs, and to con<g ref="char:EOLhyphen"/>vince them of all their ungodly deeds &amp; hard ſpeeches they have ungodlily com<g ref="char:EOLhyphen"/>mitted; yea, Gog and Magog are gathering together to the battel of the great Day of God Almighty; yea, and he that rides on the white Horſe is gone forth conquering and to conquer; yea, and the ſlain of the Lord ſhall be many, and the Fowls are gathering together to the Supper of the Lord God, that they may eat the fleſh of Kings, and the fleſh of Captains, and the fleſh of mighty men; for Gogs numberleſs number hath appeared, &amp; are appearing, and have drunk blood, and do thirſt after it, and they ſhall be filled; yea, as they have done, ſo it ſhall be returned again into their boſoms; yea double unto her, double, accor<g ref="char:EOLhyphen"/>ding to her works, (Holy God of Life) and let thy ſervants the Prophets ſound forth thy praiſes in the Earth; yea, let the Law go forth of Sion, and the Word of the Lord from Jeruſalem, and let the inhabitants of the Earth hear the ſound thereof; for</hi> Babylon <hi>the great is fallen, is fallen, and the ſmoak of her torment aſcends for ever and for ever. Therefore rejoice ye holy Prophets, and ſing for joy ye Saints of the moſt High; for the Lord our God and the Lamb reigneth on Mount Sion and in Jeruſalem, before his Antients gloriouſly; and the redeemed of the Lord are with him, with Palms in their hands, and ſongs of deliverance in their mouths; yea ſing ye Babes, rejoice ye Lambs, for your King comes riding upon an Aſs Colt, yea upon the Fole of an Aſs; yea and his Lambs he carries in his arms, and gently leads thoſe that be with young. So praiſes, praiſes, living praiſes be given to his holy Name over all for ever, whoſe Name is worthy to be praiſed, exalted and magnified over all for ever. So praiſe him O all ye ſons and daughters, and ſing aloud of his noble acts; for the horſe and his rider hath he thrown into the ſea, and the Lyon and the Lamb lye down together; and thou haſt cauſed the root of Jeſſe to ſpring out of a dry ground; yea of a little one is there become thouſands: O Lord, who can but ſpeak well of thy Name, yea and tell of thy marvellous works, and ſpeak of thy wonders in days paſt, yea and how thy loving-kindneſs extends to the ends of the Earth? for when we were in our blood, and no eye pityed us, thou hadſt compaſſion on us, and waſhed us, and poured oyle into our wounds, and ſaid unto us, Live; and cauſed us to reſt under the ſhadow of thy wing when we were diſtreſſed on eve<g ref="char:EOLhyphen"/>ry ſide; yea when our Enemies were many; yea when the Floods overwhelmed us, and our hope was almoſt gore; yea then did thy ſecret arm of power uphold us, although we ſaw it not; yea thou brokeſt in upon us with thy living pre<g ref="char:EOLhyphen"/>ſence, whereby we were refreſhed, and our ſtrength was renewed; and as we
+<pb n="6" facs="tcp:57959:5"/>grew up in thy preſence, then delightedſt in us, and ſought to do us good <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> thou girt us about with the girdle of Truth, and putteſt a Bow into our hands, and in thy ſtrength hath it been bent, and arrews have been ſent forth, whereby our Enemies have been ſmitten and at the appearance of thy preſence have they fell, yea, holy Lord God Almighty, ſtrong and mighty haſt thou been in plead<g ref="char:EOLhyphen"/>ing our cauſe with our enemies both within us and without us; yea, thou haſt delivered us from the paw of the Lyon and the Bear, and haſt cauſed us to tri<g ref="char:EOLhyphen"/>umph in victory over our Enemies; yea, thou haſt done great things for us, and how can wo but ſpeak well of thy Name, and tell of thy wondrous works, and let the people know that thou waiteſt to be gracious unto all:</hi> Whoſe loving-kindneſs is ſtretcht out to the ends of the earth, who in the ſecret of your hearts cryes, Come; if you wil return, come, and ſee if there be not balm in <hi>Gilead,</hi> and ſaving-health in <hi>Iſrael,</hi> and ſalvation in the Light of the Lord our God, which at preſent in the ſetret of your hearts condemns you for your ſin, and reproves you in ſecret when no eye ſees you, it condemns you, and ſets your ſins in order before you; yea and ſhews you all that ever you have done, as you hearken to it, love it and believe in it; yea, love that which con<g ref="char:EOLhyphen"/>demns you for your evil deeds, for it is the gift of God which comes from God, and leads to God again, from whence man is fallen; yea, it wil heal your backſlidings, and pardon your iniquities, and blot out your tranſgreſſions, that they may be remembred no more; <hi>and ſo your hearts will become upright before God; for the cleanſing you will come to know, and the purifying of your hearts will ye witneſs, yea the new life in the birth of regeneration, will ye know redemption in out of</hi> Egypt<hi>'s Land of darkneſs, into ſpiritual</hi> Canaan <hi>the everlaſting reſt of all the faithful and believing</hi> Iſraelite, <hi>and true Heritage of God.</hi>
+            </p>
+            <p>Yea, let the Iſles afar off taſt of his goodneſs, and them that ſit in darkneſs come away; for Light is ſprung forth, and the night is far ſpent, and the morning hath appeared, and the day ſtar is riſen, yea the everlaſting day of the Lord which ſhall never have an end, is come and coming, and his promiſes a fulfilling; yea and truth and righteouſneſs ſhal cover the earth even as the waters cover the ſea, whereat the Inhabitants of the earth are aſtoniſhed, and fearfulneſs doth take hold on the hypocrite, yea &amp; the ungodly men ſhal trem<g ref="char:EOLhyphen"/>ble, and cry to the Rocks and to the Mountains to hide them from the wrath of the Lord God Almighty &amp; the Lamb; <hi>For the judgement of the great day is come, &amp; the Saints do rejoice, and ſhall for ever ſing Ha<g ref="char:EOLhyphen"/>lelujah, honors, bleſſings and praiſes be given unto the Lord our God, whoſe Name is worthy to be bleſſed, praiſed, and exalted over all for ever.</hi>
+            </p>
+            <closer>
+               <dateline>Written <date>the 20. of the 4th. Month, 1663.</date>
+               </dateline>
+            </closer>
+            <trailer>THE END.</trailer>
+            <pb facs="tcp:57959:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
